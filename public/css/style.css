@@ -1,0 +1,21 @@
+.positivo {
+    background-color: #17d10a;
+    height: 3rem;
+    width: 9rem;
+    text-align: center;
+    align-items: center;
+}
+
+.negativo{
+    background-color:crimson;
+    height: 3rem;
+    width: 9rem;
+    text-align: center;
+}
+
+.fundo {
+    background: linear-gradient(to right, #ff5733, #33ff57);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
